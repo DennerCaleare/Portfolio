@@ -1,4 +1,17 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong{
+    color: #22D4FD;
+}
+
+a{
+    background-color: #22D4FD;
+    color: #000000;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
 }
