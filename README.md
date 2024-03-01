@@ -1,4 +1,4 @@
-<h1>Página de Portfólio</h1>
+<h1>Portfólio</h1>
 
 <h2>Sobre</h2>
 <p>Projeto feito para estudos, com base no curso Alura.</p>
